@@ -7,9 +7,9 @@
 ## No matter what people tell you, words and ideas can change the &#127758; - Robin Williams
 
 Right now, I'm currently studying at Trybe, a Web Development School
- - Im my spare time I like to watch some series and play Dota2 (although
+ - I'm my spare time I like to watch some series and play Dota2 (although
    I'm not a pro-player😅 ).
- - I also enjoy some jogging🏃 and love a coffe ☕ or a tea 🍵
+ - I also enjoy some jogging🏃 and love a coffee ☕ or a tea 🍵
 
 <br>
 <br>
