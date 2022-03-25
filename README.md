@@ -7,7 +7,7 @@
 ## No matter what people tell you, words and ideas can change the &#127758; - Robin Williams
 
 Right now, I'm currently working at [Sitemate](https://sitemate.com/)
- - In my spare time, I've been delving into practicing Python.
+ - In my spare time, I've been practicing Python.
  - I also enjoy some jogging🏃 and love a coffee ☕ or a tea 🍵
 
 
