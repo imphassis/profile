@@ -6,7 +6,7 @@
 
 ## No matter what people tell you, words and ideas can change the &#127758; - Robin Williams
 
-Right now, I'm currently working at [Sitemate] (https://sitemate.com/)
+Right now, I'm currently working at [Sitemate](https://sitemate.com/)
  - I'm my spare time I like to watch some series and play Dota2 (although
    I'm not a pro-player😅 ).
  - I also enjoy some jogging🏃 and love a coffee ☕ or a tea 🍵
