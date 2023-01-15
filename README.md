@@ -1,5 +1,6 @@
-  <div>
-    <img src="/profile.svg"></img>
+  <div align="center">
+    <br>
+    <a href="https://github.com/imphassis/imphassis/blob/main/profile.svg"></a>
   </div>
 
   <div align="center">
@@ -11,4 +12,4 @@
       align="center"
       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imphassis&theme=nord&line_height=40"
     />
-  </div> -->
+  </div>
