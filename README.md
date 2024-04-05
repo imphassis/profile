@@ -20,14 +20,7 @@
 
   <h3>About me</h3>
   <ul>
-    <li
-      style="
-        margin: 0;
-        display: flex;
-        flex-flow: row nowrap;
-        align-items: center;
-      "
-    >
+    <li style="margin: 0; display: flex; flex-flow: row nowrap; align-items: center">
       💼 FullStack Engineer at
       <a href="https://sitemate.com/">
         <img
@@ -37,58 +30,27 @@
         />
       </a>
     </li>
-    <li
-      style="
-        margin: 0;
-        display: flex;
-        flex-flow: row nowrap;
-        align-items: center;
-      "
-    >
+    <li style="margin: 0; display: flex; flex-flow: row nowrap; align-items: center">
       🏫 Graduated in Mechanical Engineering at
       <a href="https://unesc.br/">
         <img
           src="https://unesc.br/sisunesc/css/img/brand.png"
           align="center"
-          style="
-            width: 20px;
-            height: 20px;
-            padding-left: 5px;
-            vertical-align: middle;
-          "
+          style="width: 20px; height: 20px; padding-left: 5px; vertical-align: middle"
         />
       </a>
     </li>
-    <li
-      style="
-        margin: 0;
-        display: flex;
-        flex-flow: row nowrap;
-        align-items: center;
-      "
-    >
-      📚 Currently studying Data Science and Machine Learning at
-      <a>
+       <li style="margin: 0; display: flex; flex-flow: row nowrap; align-items: center">
+      🏫 Currently engaged in Software Architecture MBA at
+      <a href="https://mba.fullcycle.com.br/mba/">
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png"
+          src="https://fullcycle.com.br/wp-content/themes/fullcycle/assets/images/fullcycle-logo.svg"
           align="center"
-          style="
-            width: 50px;
-            height: 20px;
-            padding-left: 5px;
-            vertical-align: middle;
-          "
+          style="width: 50px; height: 20px; padding-left: 5px; vertical-align: middle"
         />
       </a>
     </li>
-    <li
-      style="
-        margin: 0;
-        display: flex;
-        flex-flow: row nowrap;
-        align-items: center;
-      "
-    >
+    <li style="margin: 0; display: flex; flex-flow: row nowrap; align-items: center">
       Stacks:
       <br />
       <img
@@ -175,19 +137,9 @@
         alt="Jest"
       />
     </li>
-    <li
-      style="
-        margin: 0;
-        display: flex;
-        flex-flow: row nowrap;
-        align-items: center;
-      "
-    >
+    <li style="margin: 0; display: flex; flex-flow: row nowrap; align-items: center">
       More information? message me on
-      <a
-        style="padding-left: 5px"
-        href="https://www.linkedin.com/in/imphassis/"
-      >
+      <a style="padding-left: 5px" href="https://www.linkedin.com/in/imphassis/">
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"
           align="center"
@@ -200,13 +152,13 @@
     <a href="">
       <img
         align="center"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=imphassis&show_icons=true&include_all_commits=true&count_private=true&theme=nord&line_height=40"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=phassis99&show_icons=true&include_all_commits=true&count_private=true&theme=nord&line_height=40"
       />
     </a>
     <a href="">
       <img
         align="center"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imphassis&theme=nord&line_height=40"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phassis99&theme=nord&line_height=40"
       />
     </a>
   </div>
